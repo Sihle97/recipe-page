@@ -25,6 +25,13 @@ html {
     background-color: var(--Stone_150);
 }
 
-body {
+main {
     background-color: var(--Stone_100);  
+    width: calc(100% - 40em);
+    height: 115vh;
+}
+
+img {
+    height: 30%;
+    width: 95%
 }
