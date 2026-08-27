@@ -22,11 +22,11 @@
 }
 
 html {
-    background-color: var(--Stone_150);
+    background-color: var(--Stone_100);
 }
 
 main {
-    background-color: var(--Stone_100);  
+    background-color: var(--White);  
     width: calc(100% - 40em);
     height: 115vh;
 }
