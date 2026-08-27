@@ -28,10 +28,18 @@ html {
 main {
     background-color: var(--White);  
     width: calc(100% - 40em);
-    height: 115vh;
+    height: 180vh;
+    padding-left: 2em;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    
+    border-radius: 1em;
 }
 
 img {
     height: 30%;
-    width: 95%
+    width: 95%;
+
+    border-radius:1em;
 }
+
