@@ -40,6 +40,9 @@ html {
 }
 
 main {
+    font-family: 'Outfit';
+    font-weight: 300;
+
     background-color: var(--White);  
     width: calc(100% - 40em);
     height: 180vh;
@@ -57,3 +60,6 @@ img {
     border-radius:1em;
 }
 
+h1 {
+    font-family: 'Young-Serif';
+}
