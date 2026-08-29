@@ -21,6 +21,20 @@
     --Rose_50: hsl(330, 100%, 98%);
 }
 
+@font-face {
+  font-family: "Outfit";
+  src:
+    local("Outfit"),
+    url("./assets/fonts/outfit/Outfit-VariableFont_wght.ttf") format("trueType");
+}
+
+@font-face {
+  font-family: "Young-Serif";
+  src:
+    local("Young-Serif"),
+    url("./assets/fonts/young-serif/YoungSerif-Regular.ttf") format("trueType");
+}
+
 html {
     background-color: var(--Stone_100);
 }
