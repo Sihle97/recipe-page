@@ -79,3 +79,7 @@ h2 {
     width: 95%;
 }
 
+h3 {
+    color: var(--Brown_800);
+    font-size: 1.5rem;
+}
