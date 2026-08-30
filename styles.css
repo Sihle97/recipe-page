@@ -45,7 +45,7 @@ main {
 
     background-color: var(--White);  
     width: calc(100% - 40em);
-    height: 180vh;
+    height: 190vh;
     padding-left: 2em;
     padding-top: 2em;
     padding-bottom: 2em;
@@ -104,4 +104,16 @@ strong {
 hr {
     width: 97%;
     margin-left: 0;
+}
+ table {
+    border-collapse: collapse;
+    width: 97%;
+ }
+
+.table-border {
+    border-bottom: .01em solid var(--Brown_800);
+}
+
+th {
+    text-align: left;
 }
