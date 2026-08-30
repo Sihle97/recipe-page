@@ -96,3 +96,7 @@ ol li::marker {
 li {
     padding-left: 1em;
 }
+
+strong {
+    font-weight: 600;
+}
