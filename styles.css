@@ -100,3 +100,8 @@ li {
 strong {
     font-weight: 600;
 }
+
+hr {
+    width: 97%;
+    margin-left: 0;
+}
