@@ -83,3 +83,16 @@ h3 {
     color: var(--Brown_800);
     font-size: 1.5rem;
 }
+
+ul li::marker {
+    color: var(--Brown_800);
+}
+
+ol li::marker {
+    color: var(--Brown_800);
+    font-weight: 600;
+}
+
+li {
+    padding-left: 1em;
+}
