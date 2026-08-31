@@ -26,6 +26,8 @@
   src:
     local("Outfit"),
     url("./assets/fonts/outfit/Outfit-VariableFont_wght.ttf") format("trueType");
+    
+    font-display: swap;
 }
 
 @font-face {
@@ -33,6 +35,8 @@
   src:
     local("Young-Serif"),
     url("./assets/fonts/young-serif/YoungSerif-Regular.ttf") format("trueType");
+
+    font-display: swap;
 }
 
 html {
