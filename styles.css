@@ -44,8 +44,8 @@ main {
     font-weight: 300;
 
     background-color: var(--White);  
-    width: calc(100% - 40em);
-    height: 190vh;
+    width: calc(100% - 20em);
+    height: auto;
     padding-left: 2em;
     padding-top: 2em;
     padding-bottom: 2em;
